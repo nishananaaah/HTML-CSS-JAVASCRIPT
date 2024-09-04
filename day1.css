@@ -1,0 +1,17 @@
+h1{
+    color: blueviolet;
+}
+button:hover{
+    color: brown;
+    background-color: yellow;
+    padding-left: 20px;
+    position:flex;
+    align-items: center;
+    
+}
+h2{
+    color: blue;
+    font-size: large;
+    font-display: flex;
+    margin-left: 25%;
+}

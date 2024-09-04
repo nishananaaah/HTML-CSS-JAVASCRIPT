@@ -1,0 +1,95 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+
+} 
+
+
+
+
+#h1 {
+    color: blue;
+    font-weight: bolder;
+    font-size: xx-large;
+    margin-right: 5px;
+
+}
+
+#n {
+    color: white;
+    background-color: blue;
+    padding: 1px 5px 2px 5px;
+    border-radius: 5px;
+}
+
+.w {
+    color:brown;
+    font-weight: normal;
+    font-size: 50px;
+}
+
+.g {
+    width: 25%;
+    height: 35PX;
+    border: 2px solid black;
+    border-radius: 25px;
+    background-image: url('https://www.freepnglogos.com/uploads/google-logo-png/google-logo-png-webinar-optimizing-for-success-google-business-webinar-13.png');
+background-size: 30px;
+background-repeat: no-repeat;
+text-align: center;
+background-position: 50px;
+
+}
+.e{
+    font-size:12px;
+}
+
+#email{
+width: 25%;
+height: 35px;
+border: 2px solid black;
+border-radius: 2px;
+}
+#password{
+    width: 25%;
+    height: 35px;
+    border: 2px solid black;
+    border-radius: 2px;
+}
+h6{
+    color: blue;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.s{
+    width: 25%;
+    height: 35px;
+    background-color: blue;
+    border-radius: 25px;
+    color: white;
+    font-size: medium;
+    text-align: center;
+}
+.icon{
+    color: black;
+    font-size: small;
+    padding-left: 20px;
+    
+}
+.lab{
+    font-size: small;
+    padding-left:10px ;
+}
+.img{
+    position: relative;
+    left: -78px;
+
+    
+}
+
+    
+
+
+
+
+

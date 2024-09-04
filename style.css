@@ -1,0 +1,21 @@
+button{
+    background-color: blueviolet;
+}
+P{
+    color: red;
+    background-color: bisque;
+}
+h1{
+    color: blue;
+    background-color: azure;
+}
+
+#title{
+    color: blue;
+
+}
+.content{
+    color: brown;
+    background-color: beige;
+    
+}

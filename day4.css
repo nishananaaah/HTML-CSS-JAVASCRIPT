@@ -1,0 +1,54 @@
+.para {
+    display:inline;
+    color: blue;
+    background-color: blanchedalmond;
+    width: 100px;
+    height: 200px;
+}
+.h{
+    display:block;
+    color: yellow;
+    background-color: black;
+    border: 100px;
+}
+.hi{
+    display:inline-block;
+    color:goldenrod;
+    background-color: black;
+    width: 500px;
+    height:500px;
+    
+}
+button:hover{
+    background-color: red;
+    border: 3px solid black;
+    padding: 13px;
+
+}
+ input:focus{
+    background-color: blueviolet;
+    border:1px solid red
+}
+    
+    p:nth-child(odd){
+        background-color: red;
+        padding: 20px;
+        background-color: goldenrod;
+
+
+}
+p::first-letter{
+ color: blueviolet;
+}
+p::selection{
+    background-color: magenta;
+}
+p::after{
+    content:"all are"
+    
+}
+
+
+
+
+    
